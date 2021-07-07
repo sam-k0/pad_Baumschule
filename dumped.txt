@@ -1,0 +1,22 @@
+#Kundennummer: 1
+#Name: 4
+***************
+#Kundennummer: 10
+#Name: 2
+***************
+#Kundennummer: 11
+#Name: 6
+***************
+#Kundennummer: 100
+#Name: 1
+***************
+#Kundennummer: 101
+#Name: 3
+***************
+#Kundennummer: 110
+#Name: 5
+***************
+#Kundennummer: 111
+#Name: 7
+***************
+
